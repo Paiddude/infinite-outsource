@@ -1,0 +1,27 @@
+.elementor-52612 .elementor-element.elementor-element-7c1b415f .elementor-repeater-item-7d6e2f0.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto
+}
+
+.elementor-52612 .elementor-element.elementor-element-382386c1 .elementor-wrapper {
+    --video-aspect-ratio: 1.77777
+}
+
+#elementor-popup-modal-52612 .dialog-message {
+    width: 640px;
+    height: auto
+}
+
+#elementor-popup-modal-52612 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8)
+}
+
+#elementor-popup-modal-52612 .dialog-close-button {
+    display: flex
+}
+
+#elementor-popup-modal-52612 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, .2)
+}

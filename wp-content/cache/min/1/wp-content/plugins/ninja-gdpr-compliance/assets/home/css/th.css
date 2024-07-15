@@ -1,0 +1,22 @@
+.njt-gdpr-content {
+  font-size: 13px;
+}
+.njt-gdpr-btns > .accept-btn,
+.njt-gdpr-btns > .custom-btn,
+.njt-gdpr-btns > .decline-btn {
+  display: inline-block;
+  line-height: normal;
+  padding: 11px 20px;
+  font-size: 13px;
+}
+.njt-gdpr-btns > .accept-btn:hover,
+.njt-gdpr-btns > .custom-btn:hover,
+.njt-gdpr-btns > .decline-btn:hover {
+  opacity: 0.8;
+}
+.njt-gdpr-btns > .custom-btn a {
+  text-decoration: none !important;
+}
+.njt-gdpr {
+  padding: 15px;
+}

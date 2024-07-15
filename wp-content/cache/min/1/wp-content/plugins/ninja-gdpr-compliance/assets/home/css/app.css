@@ -1,0 +1,114 @@
+.njt-gdpr {
+  position: fixed;
+  z-index: 9999;
+  padding: 25px;
+  box-shadow: 0 3px 16px 0 rgba(0, 0, 0, 0.33);
+}
+.njt-gdpr,
+.njt-gdpr * {
+  box-sizing: border-box;
+}
+.njt-gdpr-content {
+  margin-bottom: 10px;
+}
+.njt-gdpr.njt-gdpr-full_width {
+  left: 0;
+  right: 0;
+}
+.njt-gdpr.njt-gdpr-full_width.top {
+  top: 0;
+  bottom: auto;
+}
+.njt-gdpr.njt-gdpr-full_width.bottom {
+  top: auto;
+  bottom: 0;
+}
+.njt-gdpr.njt-gdpr-popup {
+  top: auto;
+  left: auto;
+  right: auto;
+  bottom: auto;
+}
+.njt-gdpr.njt-gdpr-popup.top_left {
+  top: 0;
+  left: 0;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.njt-gdpr.njt-gdpr-popup.top_right {
+  top: 0;
+  right: auto;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+.njt-gdpr.njt-gdpr-popup.bottom_left {
+  bottom: 0;
+  left: 0;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.njt-gdpr.njt-gdpr-popup.bottom_right {
+  bottom: 0;
+  right: 0;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.njt-gdpr-btns > .accept-btn,
+.njt-gdpr-btns > .custom-btn,
+.njt-gdpr-btns > .decline-btn {
+  display: inline-block;
+  line-height: normal;
+  padding: 15px 30px;
+  margin: 0 7px;
+  border-radius: 3px;
+  cursor: pointer;
+  position: relative;
+}
+.njt-gdpr-btns > .accept-btn p,
+.njt-gdpr-btns > .custom-btn p,
+.njt-gdpr-btns > .decline-btn p {
+  margin: 0;
+  padding: 0;
+}
+.njt-gdpr-btns > .accept-btn.loading:before,
+.njt-gdpr-btns > .custom-btn.loading:before,
+.njt-gdpr-btns > .decline-btn.loading:before {
+  background-color: rgba(0, 0, 0, 0.8);
+  content: " ";
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  position: absolute;
+}
+.njt-gdpr-btns > .accept-btn {
+  margin-left: 0;
+}
+.njt-gdpr-btns > .custom-btn a {
+  text-decoration: none;
+}
+.njt-gdpr-btns > .custom-btn a:hover {
+  text-decoration: underline;
+}
+.njt-gdpr-loading-icon {
+  display: none;
+}
+.njt-gdpr-btns .loading .njt-gdpr-loading-icon {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  left: 50%;
+  width: 30px;
+  transform: translate(-50%, -50%);
+  z-index: 99999;
+}
+.njt_gdpr_success_mess {
+  display: block;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid #ffc9c9;
+  font-style: italic;
+  background-color: #ebffde;
+}

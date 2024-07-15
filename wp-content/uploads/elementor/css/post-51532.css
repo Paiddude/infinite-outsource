@@ -1,0 +1,128 @@
+.elementor-51532 .elementor-element.elementor-element-1186fcb2 .elementor-repeater-item-8eccd9d.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-main-swiper .swiper-slide {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px 10px 105px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline .elementor-testimonial__footer,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked .elementor-testimonial__footer {
+    margin-top: 50px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above .elementor-testimonial__footer {
+    margin-bottom: 50px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_left .elementor-testimonial__footer {
+    padding-right: 50px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_right .elementor-testimonial__footer {
+    padding-left: 50px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__text {
+    color: #000;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__name {
+    color: var( --e-global-color-primary);
+    font-size: 16px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__title {
+    color: #000;
+    font-size: 16px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__image img {
+    width: 60px;
+    height: 60px;
+    border-radius: 5px
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_left .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_right .elementor-testimonial__content:after {
+    top: calc( 20px + (60px/2) - 8px)
+}
+
+body:not(.rtl) .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-right) .elementor-testimonial__content:after,
+body:not(.rtl) .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-right) .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked.elementor-testimonial--align-left .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline.elementor-testimonial--align-left .elementor-testimonial__content:after {
+    left: calc( 20px + (60px/2) - 8px);
+    right: auto
+}
+
+body.rtl .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-left) .elementor-testimonial__content:after,
+body.rtl .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-left) .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked.elementor-testimonial--align-right .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline.elementor-testimonial--align-right .elementor-testimonial__content:after {
+    right: calc( 20px + (60px/2) - 8px);
+    left: auto
+}
+
+body:not(.rtl) .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-right) .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above.elementor-testimonial--align-left .elementor-testimonial__content:after {
+    left: calc( 20px + (60px/2) - 8px);
+    right: auto
+}
+
+body.rtl .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above:not(.elementor-testimonial--align-center):not(.elementor-testimonial--align-left) .elementor-testimonial__content:after,
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above.elementor-testimonial--align-right .elementor-testimonial__content:after {
+    right: calc( 20px + (60px/2) - 8px);
+    left: auto
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-swiper-button {
+    font-size: 20px;
+    color: #000
+}
+
+.elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-swiper-button svg {
+    fill: #000
+}
+
+@media(max-width:767px) {
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_inline .elementor-testimonial__footer,
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_stacked .elementor-testimonial__footer {
+        margin-top: 37px
+    }
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_above .elementor-testimonial__footer {
+        margin-bottom: 37px
+    }
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_left .elementor-testimonial__footer {
+        padding-right: 37px
+    }
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4.elementor-testimonial--layout-image_right .elementor-testimonial__footer {
+        padding-left: 37px
+    }
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__title {
+        font-size: 14px
+    }
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-testimonial__image img {
+        width: 58px;
+        height: 58px
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-swiper-button {
+        color: transparent !important;
+        visibility: invisble !important
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .elementor-51532 .elementor-element.elementor-element-37ce6ce4 .elementor-swiper-button {
+        color: transparent !important;
+        visibility: invisble !important
+    }
+}

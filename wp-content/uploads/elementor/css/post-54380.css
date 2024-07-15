@@ -1,0 +1,176 @@
+.elementor-54380 .elementor-element.elementor-element-b466681>.elementor-container {
+    min-height: 250px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-b466681 .elementor-repeater-item-4b02979.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto;
+}
+
+.elementor-54380 .elementor-element.elementor-element-0ae2e57 .elementor-repeater-item-da8a614.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto;
+}
+
+.elementor-54380 .elementor-element.elementor-element-d531d0a .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.2em;
+}
+
+.elementor-54380 .elementor-element.elementor-element-d531d0a>.elementor-widget-container {
+    margin: -12px 0px 0px 0px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-eb5397d {
+    --divider-border-style: solid;
+    --divider-color: #FFFFFF;
+    --divider-border-width: 1px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-eb5397d .elementor-divider-separator {
+    width: 55px;
+    margin: 0 auto;
+    margin-left: 0;
+}
+
+.elementor-54380 .elementor-element.elementor-element-eb5397d .elementor-divider {
+    text-align: left;
+    padding-block-start: 2px;
+    padding-block-end: 2px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-eb5397d>.elementor-widget-container {
+    margin: -10px 0px 0px 0px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-696e4e1 .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 1.2em;
+}
+
+.elementor-54380 .elementor-element.elementor-element-b466681:not(.elementor-motion-effects-element-type-background),
+.elementor-54380 .elementor-element.elementor-element-b466681>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.elementor-54380 .elementor-element.elementor-element-b466681>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.6;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-54380 .elementor-element.elementor-element-b466681 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 60px 0px 100px 0px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-30a4e67 .elementor-repeater-item-fb73fb8.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto;
+}
+
+.elementor-54380 .elementor-element.elementor-element-776ee3c .elementor-repeater-item-57fc1d0.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto;
+}
+
+.elementor-54380 .elementor-element.elementor-element-24b8439 .jet-breadcrumbs__item>* {
+    font-size: 16.44px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-24b8439 .jet-breadcrumbs__item-link {
+    color: #D5D5D5;
+}
+
+.elementor-54380 .elementor-element.elementor-element-24b8439 .jet-breadcrumbs__item-target {
+    color: #FFFFFF;
+}
+
+.elementor-54380 .elementor-element.elementor-element-24b8439 .jet-breadcrumbs__item-sep {
+    color: #FFFFFF;
+}
+
+.elementor-54380 .elementor-element.elementor-element-776ee3c {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-30a4e67:not(.elementor-motion-effects-element-type-background),
+.elementor-54380 .elementor-element.elementor-element-30a4e67>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #3D3D3D 50%, #FFFFFF00 50%);
+}
+
+.elementor-54380 .elementor-element.elementor-element-30a4e67 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+.elementor-54380 .elementor-element.elementor-element-30a4e67>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+@media(min-width:768px) {
+    .elementor-54380 .elementor-element.elementor-element-a0d2da9 {
+        width: 100%;
+    }
+    .elementor-54380 .elementor-element.elementor-element-9b2c3e9 {
+        width: 50%;
+    }
+    .elementor-54380 .elementor-element.elementor-element-f8261c8 {
+        width: 50%;
+    }
+}
+
+@media(max-width:1200px) {
+    .elementor-54380 .elementor-element.elementor-element-d531d0a .elementor-heading-title {
+        font-size: 36px;
+    }
+    .elementor-54380 .elementor-element.elementor-element-696e4e1 .elementor-heading-title {
+        font-size: 22px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-54380 .elementor-element.elementor-element-d531d0a .elementor-heading-title {
+        font-size: 36px;
+    }
+    .elementor-54380 .elementor-element.elementor-element-696e4e1 .elementor-heading-title {
+        font-size: 22px;
+    }
+    .elementor-54380 .elementor-element.elementor-element-b466681:not(.elementor-motion-effects-element-type-background),
+    .elementor-54380 .elementor-element.elementor-element-b466681>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-size: cover;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-54380 .elementor-element.elementor-element-d531d0a .elementor-heading-title {
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .elementor-54380 .elementor-element.elementor-element-696e4e1 .elementor-heading-title {
+        font-size: 20px;
+        line-height: 1.2em;
+    }
+    .elementor-54380 .elementor-element.elementor-element-b466681:not(.elementor-motion-effects-element-type-background),
+    .elementor-54380 .elementor-element.elementor-element-b466681>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-size: cover;
+    }
+    .elementor-54380 .elementor-element.elementor-element-b466681 {
+        margin-top: -16px;
+        margin-bottom: 0px;
+    }
+}
+
+/* Start custom CSS for section, class: .elementor-element-30a4e67 */
+
+.cust-breadcrumb {
+    position: absolute;
+    z-index: 2;
+}
+
+/* End custom CSS */

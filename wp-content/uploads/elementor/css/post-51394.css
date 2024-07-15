@@ -1,0 +1,111 @@
+.elementor-51394 .elementor-element.elementor-element-7eb630b3 .elementor-repeater-item-6f5f839.jet-parallax-section__layout .jet-parallax-section__image {
+    background-size: auto
+}
+
+.elementor-51394 .elementor-element.elementor-element-28243570 {
+    --image-border-color: #BABABA;
+    --image-border-width: 1px;
+    --image-transition-duration: 800ms;
+    --overlay-transition-duration: 800ms;
+    --content-text-align: center;
+    --content-padding: 20px;
+    --content-transition-duration: 800ms;
+    --content-transition-delay: 800ms;
+    --galleries-title-color-normal: #252525;
+    --galleries-title-color-hover: #000000;
+    --galleries-pointer-bg-color-hover: var( --e-global-color-primary);
+    --gallery-title-color-active: #FFFFFF;
+    --galleries-pointer-bg-color-active: #B90E18
+}
+
+.elementor-51394 .elementor-element.elementor-element-28243570 .e-gallery-item:hover .elementor-gallery-item__overlay,
+.elementor-51394 .elementor-element.elementor-element-28243570 .e-gallery-item:focus .elementor-gallery-item__overlay {
+    background-color: #000000c7
+}
+
+.elementor-51394 .elementor-element.elementor-element-28243570 .elementor-gallery-item__title {
+    font-size: 16px
+}
+
+.elementor-51394 .elementor-element.elementor-element-28243570 .elementor-gallery-title {
+    font-size: 16px;
+    font-weight: 700;
+    --space-between: 2px
+}
+
+.elementor-51394 .elementor-element.elementor-element-28243570 .elementor-gallery__titles-container {
+    margin-bottom: 20px
+}
+
+.elementor-51394 .elementor-element.elementor-element-6a31a833 {
+    --e-image-carousel-slides-to-show: 2
+}
+
+.elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-swiper-button.elementor-swiper-button-prev,
+.elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-swiper-button.elementor-swiper-button-next {
+    font-size: 20px;
+    color: #000
+}
+
+.elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-swiper-button.elementor-swiper-button-prev svg,
+.elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-swiper-button.elementor-swiper-button-next svg {
+    fill: #000
+}
+
+.elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+    border-style: solid;
+    border-color: #efefef
+}
+
+@media(max-width:1024px) {
+    .elementor-51394 .elementor-element.elementor-element-6a31a833 {
+        --e-image-carousel-slides-to-show: 4
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-51394 .elementor-element.elementor-element-6a31a833 {
+        --e-image-carousel-slides-to-show: 2
+    }
+    .elementor-51394 .elementor-element.elementor-element-6a31a833 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+        border-width: 1px
+    }
+}
+
+.elementor-gallery__titles-container {
+    border-bottom: 1px solid #ccc
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item {
+    background: #f7f7f7;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item:hover {
+    background: #b90e18;
+    color: #fff
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item-active {
+    background: #b90e18
+}
+
+.elementor-gallery__titles-container {
+    border-bottom: 1px solid #ccc
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item {
+    background: #f7f7f7;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item:hover {
+    background: #b90e18;
+    color: #fff
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item-active {
+    background: #b90e18
+}
